@@ -1,0 +1,69 @@
+@media (max-width:1300px){
+    .price-box{
+        width: 49%;
+    }
+    .price-box-orange{
+        width: 49%;
+    }
+    .price-box-green{
+        width: 49%;
+    }
+    .price-box-blue{
+        width: 49%;
+    }
+    .price-box-black{
+        width: 49%;
+    }
+}
+@media (max-width:900px){
+    .price-box{
+        width: 49%;
+    }
+    .price-box-orange{
+        width: 49%;
+    }
+    .price-box-green{
+        width: 49%;
+    }
+    .price-box-blue{
+        width: 49%;
+    }
+    .price-box-black{
+        width: 49%;
+    }
+}
+
+@media (max-width:768px){
+    .price-box{
+        width: 90%;
+    }
+    .price-box-orange{
+        width: 90%;
+    }
+    .price-box-green{
+        width: 90%;
+    }
+    .price-box-blue{
+        width: 90%;
+    }
+    .price-box-black{
+        width: 90%;
+    }
+}
+@media (max-width:450px){
+    .price-box{
+        width: 90%;
+    }
+    .price-box-orange{
+        width: 90%;
+    }
+    .price-box-green{
+        width: 90%;
+    }
+    .price-box-blue{
+        width: 90%;
+    }
+    .price-box-black{
+        width: 90%;
+    }
+}

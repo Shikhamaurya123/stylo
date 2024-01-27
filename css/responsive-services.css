@@ -1,0 +1,145 @@
+@media (max-width:1300px)
+{
+  .services-box{
+        width:49%;
+    }  
+    .services-style-box{
+        width: 45%;
+    }
+    .services-style-3-box{
+        width: 45%;
+    }
+    .services-design-box{
+        width: 45%;
+    }
+    .download-box{
+        width:40%;
+    }
+    .download-box1{
+        width: 40%;
+    }
+    .footer-div{
+        width: 49%;
+     }
+     
+     .footer-div1{
+        width: 49%;
+     }
+     .footer-box1{
+        width: 49%;
+     }
+     .footer-box2{
+        width: 49%;
+        justify-content: center;
+      
+     }
+}
+@media (max-width:900px){
+    .services-box{
+        width:49%;
+    }  
+    .services-style-box{
+        width: 45%;
+    }
+    .services-style-3-box{
+        width: 45%;
+    }
+    .services-design-box{
+        width: 45%;
+    }
+    .download-box{
+        width:40%;
+    }
+    .download-box1{
+        width: 40%;
+        justify-content: center;
+    }
+
+    .footer-div{
+        width: 49%;
+     }
+     
+     .footer-div1{
+        width: 49%;
+     }
+     .footer-box1{
+        width: 49%;
+     }
+     .footer-box2{
+        width: 49%;
+        justify-content: center;
+      
+     }
+}
+@media (max-width:768px){
+    .services-box{
+        width:90%;
+    }  
+    .services-style-box{
+        width: 90%;
+    }
+    .services-style-3-box{
+        width: 90%;
+    }
+    .services-design-box{
+        width: 90%;
+    }
+    .download-box{
+        width:90%;
+    }
+    .download-box1{
+        width: 90%;
+        justify-content: center;
+    }
+    .footer-div{
+        width: 90%;
+     }
+     
+     .footer-div1{
+        width: 90%;
+     }
+     .footer-box1{
+        width: 90%;
+     }
+     .footer-box2{
+        width: 90%;
+        justify-content: center;
+       
+     }
+}
+@media (max-width:450px){
+    .services-box{
+        width:90%;
+    } 
+    .services-style-box{
+        width: 90%;
+    } 
+    .services-style-3-box{
+        width: 90%;
+    }
+    .services-design-box{
+        width: 90%;
+    }
+    .download-box{
+        width:40%;
+    }
+    .download-box1{
+        width: 40%;
+        justify-content: center;
+    }
+    .footer-div{
+        width: 90%;
+     }
+     
+     .footer-div1{
+        width: 90%;
+     }
+     .footer-box1{
+        width: 90%;
+     }
+     .footer-box2{
+        width: 90%;
+        justify-content: center;
+       
+     }
+}

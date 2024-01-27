@@ -1,0 +1,307 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600&family=Rethink+Sans&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+:root{
+    --main-color:#2db0d0;
+    --font-color:rgb(72, 69, 69);
+}
+.first-section{
+    height:400px;
+    width: 100%;
+    background:url("../images/page-header.jpg");
+    background-size: cover;
+}
+.flex{
+    display: flex;
+}
+.sub-header{
+    padding: 8px 15px;
+    justify-content: flex-end;
+    gap: 10px;
+}
+.log{
+    font-size: 12px;
+    background: white;
+    padding: 5px 8px;
+    border-radius: 20px;
+    color: #2db0d0;
+    font-weight: 600;
+}
+.social{
+    gap:10px;
+}
+.social-log{
+    font-size: 13.5px;
+    background: white;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    color: #2db0d0;
+    display: inline-block;
+    padding: 5px;
+    text-align: center;
+}
+.twitter:hover{
+    color: white;
+    background-color: #2db0d0;
+}
+.main-header{
+    height: 100px;
+    width: 100%;
+    justify-content: space-between;
+}
+.inner-header{
+    height: 100px;
+    width:25%;
+    background-color:#30b2d2;
+    overflow: hidden;
+}
+.inner-header2{
+    height: 100px;
+    width:70%;
+    display: flex;
+    justify-content: end;
+    gap:20px;
+}
+.inner-header-sub{
+    height: 70px;
+    width: 70%;
+}
+.inner-header-sub a{
+    text-decoration: none;
+    padding:20px;
+    line-height: 70px;
+    background-color:#30b2d2;   margin: 2px;
+}
+.header-3{
+    height: 100px;
+    width: 30%;
+    margin: 150px;
+}
+.head{
+    height: 100px;
+    width: 100%;
+}
+.head h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    color: #fff;
+}
+.head h3{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 700;
+    color: #fff;
+}
+
+/*-------------------End the header------------------*/
+.touch-swip{
+    width: 100%;
+}
+.touch-swip-box{
+    height: 600px;
+    width: 80%;
+    background-color: #fff;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    padding: 70px;
+}
+.touch-swip-box-1{
+    height: 500px;
+    width: 50%;
+}
+.touch-swip-box-2{
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+}
+.touch-swip-box-3{
+    height: 100px;
+    width: 100%;
+    background-color: #f4f4f4;
+}
+.touch-swip-box-3 a{
+    text-decoration: none;
+    color:#000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 60px;
+    font-size: 20px;
+    font-weight: 800;
+}
+.touch-swip-box-3 h3{
+    text-align: center;
+}
+/*-----------end the touch ---------------*/
+.footer{
+    height:400px;
+    width:100%;
+    background-color:#323a45;
+}
+
+    .footer-box{
+        height: 400px;
+        width: 80%;
+        background-color:#323a45;
+        margin: 0px auto;
+        display: flex;
+        
+    }
+    .footer-div{
+        height: 400px;
+        width: 25%;
+        position: relative;
+        padding: 10px;
+        font-size: 20px;
+    }
+    .footer-div h4{
+        font-size: 30px;
+        color: #fff;
+    }
+    .footer-div h4::after{
+        content: "";
+        height: 3px;
+        width: 30%;
+        background-color:#fff;
+        position: absolute;
+         top:12%;
+         left:30%;
+    }
+    .footer-div h4::before{
+        content: "";
+        height: 3px;
+        width: 30%;
+        background-color:#30b2d2;
+        position: absolute;
+         top:12%;
+         left:4%;
+    }
+    .footer-circle{
+        height: 15px;
+        width: 15px;
+        background-color:#30b2d2;
+        border-radius: 50%;
+        position: absolute;
+        top:10%;
+        left:0%;
+    }
+    .footer-div p{
+        margin-top: 20px;
+        color: #fff;
+    }
+    .footer-div a{
+        color:#fff;
+        font-size: 15px;
+    }
+    .para{
+        font-size: 15px;
+    }
+    .footer-div h6{
+        margin-top: 20px; 
+        text-align: center;
+        text-align: justify;
+        color: #fff;
+    }
+    .footer-div1{
+        height: 400px;
+        width: 25%;
+        position: relative;
+        padding: 10px;
+        font-size:15px;
+        
+    }
+    .footer-div1 h4::after{
+        content: "";
+        height: 3px;
+        width: 30%;
+        background-color:#fff;
+        position: absolute;
+         top:12%;
+         left:30%;
+    }
+    .footer-div1 h4::before{
+        content: "";
+        height: 3px;
+        width: 30%;
+        background-color:#30b2d2;
+        position: absolute;
+         top:12%;
+         left:4%;
+    }
+    .footer-div1 h4{
+        font-size: 30px;
+        color: #fff;
+    }
+    .footer-div1 p{
+        margin-top:20px;
+        font-size: 15px;
+        color: #fff;
+    }
+    .footer-div1 h5{
+        font-size: 12px;
+        color:#88898a;
+        margin-top: 10px;
+    }
+    .footer-gallery{
+        margin-top: 50px;
+        height:250px;
+        width: 95%;
+     }
+    .footer-gallery-1{
+      height: 67px;
+      width: 100%;
+      display: flex;
+      gap:10px;
+      margin: 10px;
+    }
+    .footer-gallery-2{
+        height: 67px;
+        width:33.33%;
+    }
+    .footer-gallery-2 img{
+        height: 100%;
+        width: 100%;
+    }
+    .footer-bootom{
+        height: 100px;
+        width: 100%;
+        background-color:#292f38;
+    }
+    .footer-bottom-box{
+        height: 100px;
+        width: 80%;
+        background-color:#292f38;
+        margin: 0px auto;
+        display: flex;
+    }
+    .footer-box1{
+        height: 100px;
+        width:50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+    }
+    .footer-box2{
+        height: 100px;
+        width:50%;
+        font-size:25px;
+        display: flex;
+        justify-content:flex-end;
+        align-items: center;
+        gap:15px;
+        color:#666666;    }

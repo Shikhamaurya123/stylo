@@ -1,0 +1,32 @@
+@media (max-width:1300px){
+    .column-9-box{
+        width: 40%;
+    }
+    .column-9-box1{
+        width: 40%;
+    }
+}
+@media (max-width:900px){
+    .column-9-box{
+        width: 45%;
+    }
+    .column-9-box1{
+        width: 45%;
+    }
+}
+@media (max-width:700px){
+    .column-9-box{
+        width: 90%;
+    }
+    .column-9-box1{
+        width: 90%;
+    }
+}
+@media (max-width:450px){
+    .column-9-box{
+        width: 90%;
+    }
+    .column-9-box1{
+        width: 90%;
+    }
+}

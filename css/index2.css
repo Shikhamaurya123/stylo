@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.header{
+    height: 500px;
+    width: 100%;
+    background-color: blue;
+}
+/*------------End thhe header------------------*/
+
+.template{
+    height: 500px;
+    width: 100%;
+    background-color: aqua;
+}
+.template-box{
+    height: 500px;
+    width: 80%;
+    background-color:#f00;
+    margin: 0px auto;
+}
+.template-content{
+    height: 120px;
+    width: 80%;
+    border:1px solid #000;
+    margin: 0px auto;
+    padding: 20px;
+}
+.template-content h1{
+    text-align: center;
+    font-size: 30px;
+}
+.template-content p{
+    text-align: center;
+    font-size: 20px;
+}
+.template-box1{
+    height: 350px;
+    width: 100%;
+    background-color: #000;
+    display: flex;
+}
+.template-box1-1{
+    height: 350px;
+    width: 33.33%;
+    border: 2px solid #f00;
+}

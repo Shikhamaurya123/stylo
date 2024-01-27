@@ -1,0 +1,160 @@
+@media (max-width:1300px){
+    .about-box{
+        width: 49%;
+    }
+    .about-box1{
+        width: 49%;
+    }
+    .choose-box{
+        width: 49%;
+    }
+    .about-box{
+        width: 45%;
+    }
+    .about-box1{
+        width: 45%;
+    }
+    .client-box3{
+        margin-left: 30px;
+    }
+    .download-box{
+        width: 49%;
+    }
+.download-box1{
+     width: 49%;
+     justify-content: center;
+}
+.team-box{
+    width: 49%;
+}
+.footer-div{
+    width: 49%;
+ }
+ 
+ .footer-div1{
+    width: 49%;
+ }
+ .footer-box1{
+    width: 49%;
+ }
+ .footer-box2{
+    width: 49%;
+    justify-content: center;
+  
+ }
+}
+@media (max-width:900px){
+    .about-box{
+        width: 49%;
+    }
+    .about-box1{
+        width: 49%;
+    }
+    .choose-box{
+        width: 49%;
+    }
+    .client-box3{
+        margin-left: 30px;
+    }
+    .download-box{
+        width: 49%;
+    }
+   .team-box{
+    width: 49%;
+}
+.footer-div{
+    width: 49%;
+ }
+ 
+ .footer-div1{
+    width: 49%;
+ }
+ .footer-box1{
+    width: 49%;
+ }
+ .footer-box2{
+    width: 49%;
+    justify-content: center;
+  
+ }
+}
+@media (max-width:768px)
+     {
+        .about-box{
+            width: 90%;
+        }
+        .about-box1{
+            width: 90%;
+        }
+    .choose-box{
+        width: 90%;
+    }
+    .client-box3{
+        margin-left: 30px;
+    }
+    .download-box{
+        width: 90%;
+    }
+    .download-box1{
+        width:90%;
+        justify-content: center;
+   }
+   
+   .team-box{
+    width: 90%;
+}
+.footer-div{
+    width: 90%;
+ }
+ 
+ .footer-div1{
+    width: 90%;
+ }
+ .footer-box1{
+    width: 90%;
+ }
+ .footer-box2{
+    width: 90%;
+    justify-content: center;
+   
+ }
+}
+@media (max-width:450px){
+    .about-box{
+        width: 90%;
+    }
+    .about-box1{
+        width: 90%;
+    }
+    .choose-box{
+        width: 90%;
+    }
+    .client-box3{
+        margin-left: 30px;
+    }
+    .download-box{
+        width: 90%;
+    }
+    .download-box1{
+        width: 90%;
+        justify-content: center;
+   }
+   .team-box{
+    width: 90%;
+}
+.footer-div{
+    width: 90%;
+ }
+ 
+ .footer-div1{
+    width: 90%;
+ }
+ .footer-box1{
+    width: 90%;
+ }
+ .footer-box2{
+    width: 90%;
+    justify-content: center;
+   
+ }
+}
